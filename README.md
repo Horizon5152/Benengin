@@ -1,2 +1,2 @@
 # Benengin
-turist rehberi web sitesi
+Turist Rehberi web sitesi
